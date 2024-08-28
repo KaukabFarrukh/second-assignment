@@ -1,0 +1,39 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 300;
+    font-style: oblique;
+    text-align: center;
+    background-color: aqua;
+}
+h2 {
+    color:green;
+    font-size: 30px;
+    font-weight: 200;
+    font-style: italic;
+}
+#ingredients {
+    color:purple;
+}
+h4 {
+    color: blueviolet;
+    font-size: 40px;
+    font-style: inherit;
+    
+}
+body {
+    background-image: url(../images/background\ image.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200vh;
+
+
+}
+img {
+    border-width: 7px;
+    border-style: double;
+    border-color: green ;
+    border-radius: 50%;
+    box-shadow: 20px 20px 10px yellowgreen;
+}
